@@ -50,15 +50,6 @@ Defines and delivers AI-SDLC transformation strategy for Microsoft's largest ent
 - **Converted skeptical engineering leaders into transformation partners** at Microsoft Executive Briefing Centers through technical credibility and candid capability assessment.
 - **Scaled organizational capability** by mentoring engineers and technical sellers across Microsoft for executive-level AI-SDLC transformation engagements.
 
-### Agent Driven Development — Founder & Author
-
-Founded an independent thought leadership platform on AI-native software development, referenced by CTOs, VPs of Engineering, and engineering directors navigating the transition to agent-driven workflows.
-
-- **Published [agentdrivendevelopment.com](https://agentdrivendevelopment.com)** — Platform for CxOs, engineering leaders, and developers with content segmented by role.
-- **Authored** *"What Got You Here Won't Keep You Here: A Letter to Technology Executives,"* *"The People Conversation,"* *"The Use Case Is Building Software and the Best Practice Is Today,"* *"The 2028 Problem You're Creating in 2025,"* and additional works on AI-SDLC transformation strategy.
-- **Built a practitioner community** via Discord focused on practical AI-SDLC implementation.
-- **Established an independent editorial voice** in the AI-SDLC transformation space, with a body of work referenced by enterprise leaders in transformation planning.
-
 ### Canton Coders — Founder & President
 
 Founded and scaled a 1,000+ member global developer community dedicated to developer growth, workforce qualification, and career advancement.
