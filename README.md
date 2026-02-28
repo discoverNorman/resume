@@ -6,9 +6,9 @@ JoelNorman@microsoft.com · [linkedin.com/in/joeltnorman](https://www.linkedin.c
 
 ---
 
-> *"If you had $50 million, all of your IP, and all of your customers—how would you build software?"*
+> *"If you had $50 million, all of your IP, and all of your customers—how would you build software? Measure today. Measure tomorrow. Build the p99 team to achieve flow."*
 >
-> That's the question I ask every F100 CTO I sit across from. Not to sell them something. To find out if they're ready to change. The answer is never "the way we do it today." The answer is an AI-native SDLC, rebuilt from first principles. I help them see it, design it, and build it.
+> That's the question I ask every F100 CTO I sit across from. Not to sell them something. To find out if they're ready to change. The answer is never "the way we do it today." The answer is an AI-native SDLC, rebuilt from first principles—measured against where you are now, measured against where you're going, and built around the best team you can field. I help them see it, design it, and build it.
 
 ---
 
