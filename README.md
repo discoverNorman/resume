@@ -1,6 +1,6 @@
 # JOEL T. NORMAN
 
-**AI-SDLC Transformation · Engineering Change Management · Software Engineering**
+**AI-SDLC Transformation · Engineering Change Management · Trusted Advisor to the CxO · Friend of the Engineer**
 
 joel.t.norman@gmail.com · [linkedin.com/in/joeltnorman](https://www.linkedin.com/in/joeltnorman/)
 
