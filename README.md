@@ -77,7 +77,7 @@ Embedded with Fortune 100 executive teams to design and deliver large-scale SDLC
 - **Led monolith decomposition, CI/CD adoption, testing strategy, and delivery transformation** for organizations with thousands of engineers.
 - **Generated repeat revenue** year over year through measurable business outcomes.
 
-### Ally Financial — Principal Kubernetes & DevOps Consultant
+### Ally Financial — Principal Kubernetes (OpenShift) & DevOps Consultant
 
 - **Designed and delivered a production Kubernetes-on-OpenShift CI/CD pipeline** integrating SonarQube, Jenkins, GitHub, and Clarity.
 - **Trained and mentored SDET teams** on modern testing methodologies and DevOps practices.
