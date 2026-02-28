@@ -16,14 +16,6 @@ Career trajectory centered on engineering organizational change — agile and De
 
 ---
 
-## AWARDS & RECOGNITION
-
-- **Living Our Culture Award** — Microsoft, 2026 & 2024
-- **DevDiv Future of Product Management Hackathon Winner** — Built spec-driven UI for SpecKit; ported to TypeScript
-- **Canton Coders** — Founded a 1,000+ member developer community; placed 90+ developers into new roles at no cost
-
----
-
 ## CORE CAPABILITIES
 
 | AI-SDLC Transformation | Organizational Change Management | Executive Partnership |
@@ -126,3 +118,11 @@ Led pharmaceutical software development for the MedKnowledge Framework and intro
 ## EDUCATION
 
 **Western Michigan University** — B.A. Computer Science / Telecommunications & Information Management Systems
+
+---
+
+## AWARDS & RECOGNITION
+
+- **Living Our Culture Award** — Microsoft, 2026 & 2024
+- **DevDiv Future of Product Management Hackathon Winner** — Built spec-driven UI for SpecKit; ported to TypeScript
+- **Canton Coders** — Founded a 1,000+ member developer community; placed 90+ developers into new roles at no cost
