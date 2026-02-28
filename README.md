@@ -12,7 +12,7 @@ Engineering leader with over two decades of hands-on software engineering experi
 
 Creator of **Z2A (Zero to Agents)**, the platform Microsoft uses to accelerate enterprise GitHub Copilot adoption. Hundreds of thousands of customer engineers onboarded through Z2A. Hundreds of Microsoft employees enabled to deliver it at scale. Aligned 300+ stakeholders across Product, GTM, Engineering, and Sales around a unified AI-SDLC transformation framework, adopted as the company standard.
 
-Career trajectory centered on engineering organizational change — agile and DevOps transformation, cloud-native modernization, and AI-native development. Grounds transformation strategy in measurable business and engineering outcomes: EBITDA impact, flow efficiency, feature throughput, cycle time, deployment frequency, and developer productivity metrics. Maintains daily hands-on coding practice as the foundation of technical credibility with Fortune 100 executive leadership.
+Career trajectory centered on engineering organizational change — agile and DevOps transformation, cloud-native modernization, and AI-native development. Routinely helps customers identify $5M–$100M+ in productivity gains through modern software engineering practices and AI adoption. Grounds transformation strategy in measurable business and engineering outcomes: EBITDA impact, flow efficiency, feature throughput, cycle time, deployment frequency, and developer productivity metrics. Maintains daily hands-on coding practice as the foundation of technical credibility with Fortune 100 executive leadership.
 
 ---
 
