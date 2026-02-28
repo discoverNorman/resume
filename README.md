@@ -2,7 +2,7 @@
 
 **AI-SDLC Transformation · Engineering Change Management · Software Engineering**
 
-JoelNorman@microsoft.com · [linkedin.com/in/joeltnorman](https://www.linkedin.com/in/joeltnorman/)
+joel.t.norman@gmail.com · [linkedin.com/in/joeltnorman](https://www.linkedin.com/in/joeltnorman/)
 
 ---
 
