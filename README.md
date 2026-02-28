@@ -8,7 +8,7 @@ joel.t.norman@gmail.com · [linkedin.com/in/joeltnorman](https://www.linkedin.co
 
 ## SUMMARY
 
-Engineering leader specializing in AI-SDLC transformation and organizational change management for Fortune 100 enterprises. Defines enterprise adoption strategy for generative AI across the full software development lifecycle at Microsoft. Previously led engineering transformations at Ford Motor Company, Eli Lilly, Ally Financial, Quicken Loans, and additional Fortune 500 accounts spanning auto manufacturing, pharmaceuticals, medical devices, financial services, and defense.
+Engineering leader with over two decades of hands-on software engineering experience, specializing in AI-SDLC transformation and organizational change management for Fortune 100 enterprises. Defines enterprise adoption strategy for generative AI across the full software development lifecycle at Microsoft. Previously led engineering transformations at Ford Motor Company, Eli Lilly, Ally Financial, Quicken Loans, and additional Fortune 500 accounts spanning auto manufacturing, pharmaceuticals, medical devices, financial services, and defense.
 
 Creator of **Z2A (Zero to Agents)**, the platform Microsoft uses to accelerate enterprise GitHub Copilot adoption. Hundreds of thousands of customer engineers onboarded through Z2A. Hundreds of Microsoft employees enabled to deliver it at scale. Aligned 300+ stakeholders across Product, GTM, Engineering, and Sales around a unified AI-SDLC transformation framework, adopted as the company standard.
 
@@ -29,7 +29,7 @@ Career trajectory centered on engineering organizational change — agile and De
 
 ## CAREER HISTORY
 
-### Microsoft — Principal Solutions Engineer / Developer Advocate
+### Microsoft — Director / Principal Solutions Engineer / Developer Advocate
 
 Defines and delivers AI-SDLC transformation strategy for Microsoft's largest enterprise customers. Serves as the primary technical resource for Fortune 100 CTOs evaluating AI adoption across their engineering organizations.
 
